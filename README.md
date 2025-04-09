@@ -120,5 +120,4 @@ Make sure the backend server is running on port 8000 (default) or update the `NE
 
 ## License
 
-[MIT](LICENSE)
-# Speech-recognition
+
