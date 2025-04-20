@@ -118,6 +118,6 @@ Make sure the backend server is running on port 8000 (default) or update the `NE
 - For audio-related issues, check browser permissions for microphone access
 - If sessions aren't being created, verify that the UUID in your environment variables exists in your database
 
-## License
+
 
 
